@@ -1,7 +1,2 @@
 flask
-<<<<<<< HEAD
-   pytest
-
-=======
 pytest
->>>>>>> 5663a19 (Update app and add requirements)
